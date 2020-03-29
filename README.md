@@ -11,7 +11,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/henrique-roldao/omni-stack-week-11">
   
-  <a href="https://github.com/apsampaio/semana-omnistack-11/commits/master">
+  <a href="https://github.com/henrique-roldao/omni-stack-week-11/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henrique-roldao/omni-stack-week-11">
   </a>
 
