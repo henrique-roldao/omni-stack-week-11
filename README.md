@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="git/prev.png" width="100%">
+  <img alt="Frontend" src="frontend/src/assets/prev.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
